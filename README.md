@@ -9,6 +9,7 @@
 
 
 <!-- BREVE DESCRIPCION -->
+ **About me**
 - 📚 I am currently studying at [UBA(University of Buenos Aires)](https://www.uba.ar//)
 
 - 🌱 I am currently in the race **Software Engineer**
