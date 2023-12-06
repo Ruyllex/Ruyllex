@@ -3,7 +3,7 @@
 <!-- GIF HEADER -->
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruyllex&label=Profile%20views&color=0e75b6&style=flat" alt="Ruyllex" /> </p>
 
 <!-- TROFEOS GITHUB -->
 
