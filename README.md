@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="C:/Users/ruymo/programacion/frontend/GitHubProfile/Ruyllex/github-header-image.png">
+![Header](.github-header-image.png)
 <!-- RAINBOW LINE TOP -->
 <h1 align="center" style="font-size:400px;"><b>Hi , I'm <span style="color: green;">Ruy Mori</span> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
