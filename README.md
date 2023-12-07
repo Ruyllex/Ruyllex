@@ -33,6 +33,7 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" /> </a>
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> </a>
 </div>
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align:center;justify-content:center">
