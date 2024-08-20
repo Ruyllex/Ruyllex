@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ruymori630@gmail.com**
 
-- My Portfolio [Portfolio](https://ruyllex.github.io//)
+- [My Portfolio](https://ruyllex.github.io//)
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
